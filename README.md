@@ -1,5 +1,0 @@
-- 👋 Hi, I’m Pranav Tripathi
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on some open source projects
-- 📫 How to reach me ... twitter - https://twitter.com/prnvtwts
