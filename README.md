@@ -77,6 +77,8 @@ Hey folks, glad to see you here. Basically I'm a sophomore, pursuing BTech in CS
 So this is my story of how I fall in love with open-source contributions. How the october helped me in that.</p>
 
 <br />
+<br />
+<br />
 
 <p align="left">
 <a href="https://prnvtripathi.hashnode.dev/golang" title="GoLang: Why it is my favorite language now"><img src="https://prnvtripathi.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1668669900828%2FVFjNeMt2uX.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1080&q=75" alt="Golang" width="250px" align="left" /></a>
