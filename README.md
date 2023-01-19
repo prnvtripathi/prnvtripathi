@@ -86,6 +86,7 @@ So this is my story of how I fall in love with open-source contributions. How th
 <strong>17 Nov 2022</strong></div><br />
 I started learning this language as a prerequisite for DevOps but it turned out to be my one of the favourite languages. Read about it in this blog.</p>
 
+<br />
 <hr />
 
 ## Socials
