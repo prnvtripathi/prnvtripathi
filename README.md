@@ -2,15 +2,12 @@
 <img src="https://github.com/prnvtripathi/prnvtripathi/blob/main/assets/banner.png" align="center" style="width: 100%" />
 </div>
 <br />
-<p align="left"> 
-<a href="https://twitter.com/intent/follow?screen_name=prnvtwts" target="blank"><img src="https://img.shields.io/twitter/follow/prnvtwts?logo=twitter&style=for-the-badge&color=1DA1F2" alt="prnvtwts"/></a>
-</p>
 <hr />
 Hey folks, glad to see you here. Basically I'm a sophomore, pursuing BTech in CSE with AI. I'm currently sharpeing my skills in various fields including Web Development, Open Source Contributions, and DevOps as well. :octocat:
 
 - 🧑🏻 I like sharing my journey, growing and learning in community.
 - 📑 You can read some of my blogs [here](https://prnvtripathi.hashnode.dev).
-- 🕸️ Here's my [portfolio website](https://pranav-tripathi.netlify.app).
+- 🕸️ Here's my [portfolio website](https://pranavtripathi.vercel.app).
 
 
 <details>
@@ -25,7 +22,7 @@ Hey folks, glad to see you here. Basically I'm a sophomore, pursuing BTech in CS
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-1[C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
