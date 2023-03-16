@@ -41,7 +41,6 @@ Hey folks, glad to see you here. Basically I'm a sophomore, pursuing BTech in CS
 <details>
   <summary>📁 Projects </summary>
   <p align="center">
-    <a href="https://github.com/prnvtripathi/Movie-Recommender-Chatbot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prnvtripathi&repo=Movie-Recommender-Chatbot&theme=vue-dark&hide_border=false&icon_color=F8D866&show_icons=true" alt=""></a>
     <a href="https://github.com/prnvtripathi/weather-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prnvtripathi&repo=weather-app&theme=vue-dark&hide_border=false&icon_color=F8D866&show_icons=true" alt=""></a>
     <a href="https://github.com/prnvtripathi/KeepIt"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prnvtripathi&repo=KeepIt&theme=vue-dark&hide_border=false&icon_color=F8D866&show_icons=true" alt=""></a>
     <a href="https://github.com/prnvtripathi/pressart-landing-page"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prnvtripathi&repo=pressart-landing-page&theme=vue-dark&hide_border=false&icon_color=F8D866&show_icons=true" alt=""></a>
@@ -65,25 +64,11 @@ Hey folks, glad to see you here. Basically I'm a sophomore, pursuing BTech in CS
 </details>
 <hr />
 
-## Wanna read my blogs?
+## Wanna read my latest blogs?
 
-<p align="left">
-<a href="https://prnvtripathi.hashnode.dev/my-first-hacktoberfest" title="My First Hacktoberfest"><img src="https://prnvtripathi.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1667309185373%2FooCmHJeyu.jpeg%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1080&q=75" alt="My First Hacktoberfest" width="250px" align="left" /></a>
-<a href="https://prnvtripathi.hashnode.dev/my-first-hacktoberfest"><strong>My first hacktoberfest: first time contributing to open-source</strong></a><br />
-<strong>21 Oct 2022</strong></div><br />
-So this is my story of how I fall in love with open-source contributions. How the october helped me in that.</p>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-<br />
-<br />
-<br />
-
-<p align="left">
-<a href="https://prnvtripathi.hashnode.dev/golang" title="GoLang: Why it is my favorite language now"><img src="https://prnvtripathi.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1668669900828%2FVFjNeMt2uX.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1080&q=75" alt="Golang" width="250px" align="left" /></a>
-<a href="https://prnvtripathi.hashnode.dev/golang"><strong>GoLang: Why it is my favorite language now</strong></a><br />
-<strong>17 Nov 2022</strong></div><br />
-I started learning this language as a prerequisite for DevOps but it turned out to be my one of the favourite languages. Read about it in this blog.</p>
-
-<br />
 <hr />
 
 ## Socials
