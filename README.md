@@ -80,6 +80,6 @@ Hey folks, glad to see you here. Basically I'm a sophomore, pursuing BTech in CS
 <a href='https://linkedin.com/in/tripathipranav14/' target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 <a href='https://twitter.com/prnvtwts/' target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="linkedin" /></a>
 
-<a href="https://app.daily.dev/prnvtripathi"><img src="https://api.daily.dev/devcards/5f6cfcb0583c4b9ea3dcd700651f98de.png?r=58d" width="300" alt="Pranav Tripathi's Dev Card"/></a>
+<a href="https://app.daily.dev/prnvtripathi"><img src="https://api.daily.dev/devcards/5f6cfcb0583c4b9ea3dcd700651f98de.png?r=58d" width="300" alt="prnvtripathi/prnvtripathi"/></a>
 
 ![Visitor Count](https://profile-counter.glitch.me/{prnvtripathi}/count.svg)
