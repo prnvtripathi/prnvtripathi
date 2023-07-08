@@ -68,6 +68,7 @@ Hey folks, glad to see you here. Basically I'm a sophomore, pursuing BTech in CS
 ## Wanna read my latest blogs?
 
 <!-- BLOG-POST-LIST:START -->
+- [Open Source: insights from an Inspiring Event](https://prnvtripathi.hashnode.dev/open-source-insights-from-an-inspiring-event)
 - [Git- Your first step in the tech :&rpar;](https://prnvtripathi.hashnode.dev/git)
 - [Front-end Development Roadmap in 2023](https://prnvtripathi.hashnode.dev/front-end-development-roadmap-in-2023)
 - [GoLang: Why it is my favorite language now](https://prnvtripathi.hashnode.dev/golang)
