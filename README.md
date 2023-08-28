@@ -12,14 +12,16 @@ Hey folks, glad to see you here. Basically I'm a sophomore, pursuing BTech in CS
 - 🕸️ Here's my [portfolio website](https://pranavtripathi.vercel.app).
 
 <details>
-  <summary>🛠️ My tools</summary>
+  <summary>🛠️ Tech Stack I Prefer</summary>
   <p align="center">
-  
+    
+![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-000000?style=for-the-badge&logo=tailwindcss&logoColor=blue)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -42,9 +44,9 @@ Hey folks, glad to see you here. Basically I'm a sophomore, pursuing BTech in CS
 <details>
   <summary>📁 Projects </summary>
   <p align="center">
-    <a href="https://github.com/prnvtripathi/weather-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prnvtripathi&repo=weather-app&theme=vue-dark&hide_border=false&icon_color=F8D866&show_icons=true" alt=""></a>
+    <a href="https://github.com/prnvtripathi/earthimpact"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prnvtripathi&repo=earthimpact&theme=vue-dark&hide_border=false&icon_color=F8D866&show_icons=true" alt=""></a>
     <a href="https://github.com/prnvtripathi/KeepIt"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prnvtripathi&repo=KeepIt&theme=vue-dark&hide_border=false&icon_color=F8D866&show_icons=true" alt=""></a>
-    <a href="https://github.com/prnvtripathi/pressart-landing-page"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prnvtripathi&repo=pressart-landing-page&theme=vue-dark&hide_border=false&icon_color=F8D866&show_icons=true" alt=""></a>
+    <a href="https://github.com/prnvtripathi/weather-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prnvtripathi&repo=weather-app&theme=vue-dark&hide_border=false&icon_color=F8D866&show_icons=true" alt=""></a>
       <a href="https://github.com/prnvtripathi/portfolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prnvtripathi&repo=portfolio&theme=vue-dark&hide_border=false&icon_color=F8D866&show_icons=true" alt=""></a>
    </p>
 </details>
@@ -58,9 +60,9 @@ Hey folks, glad to see you here. Basically I'm a sophomore, pursuing BTech in CS
 
 ![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=prnvtripathi&theme=vue-dark&count_private=true&show_icons=true) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prnvtripathi&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prnvtripathi&theme=vue-dark&layout=donut&hide=python) 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prnvtripathi&theme=vue-dark)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prnvtripathi&theme=vue-dark)
 
 </details>
 <hr />
