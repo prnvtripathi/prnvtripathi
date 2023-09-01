@@ -60,7 +60,7 @@ Hey folks, glad to see you here. Basically I'm a sophomore, pursuing BTech in CS
 
 ![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=prnvtripathi&theme=vue-dark&count_private=true&show_icons=true) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prnvtripathi&theme=vue-dark&layout=donut&hide=python) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prnvtripathi&theme=vue-dark&layout=donut) 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prnvtripathi&theme=vue-dark)
 
