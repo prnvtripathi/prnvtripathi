@@ -5,7 +5,7 @@
 <hr />
 
 
-Hey folks, glad to see you here. Basically I'm a sophomore, pursuing BTech in CSE with AI. I'm currently sharpeing my skills in various fields including Web Development, Open Source Contributions, and DevOps as well. :octocat:
+Hey folks, glad to see you here. Basically I'm a student, pursuing BTech in CSE with AI. I'm currently sharpeing my skills in various fields including Web Development, Open Source Contributions, and DevOps as well. :octocat:
 
 - 🧑🏻 I like sharing my journey, growing and learning in community.
 - 📑 You can read some of my blogs [here](https://prnvtripathi.hashnode.dev).
