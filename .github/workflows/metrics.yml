@@ -42,12 +42,12 @@ jobs:
         uses: lowlighter/metrics@v3.34  # Updated to the correct version
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          user: OfficialCodeVoyage
+          user: prnvtripathi
           template: classic
           base: header, activity, community, repositories, metadata
           base_indepth: true
           config_octicon: true
-          config_timezone: America/Chicago
+          config_timezone: India/
           config_twemoji: true
           plugin_languages: true
           plugin_languages_analysis_timeout: 15
@@ -62,11 +62,6 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_leetcode: true
-          plugin_leetcode_limit_recent: 2
-          plugin_leetcode_limit_skills: 10
-          plugin_leetcode_sections: solved
-          plugin_leetcode_user: officialcodevoyage
         env:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
 
